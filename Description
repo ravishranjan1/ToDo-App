@@ -1,0 +1,18 @@
+DESCRIPTION :
+The To-Do app is a simple yet efficient task management application designed to help users organize and prioritize their daily tasks. 
+It allows users to add, edit, and delete tasks, set due dates, and mark tasks as completed. 
+This app is built with the goal of increasing productivity and keeping track of personal or work-related responsibilities.
+
+KEY FEATURES :
+Add new tasks with task names.
+Edit and update existing tasks. 
+Delete individual tasks or clear all. 
+Mark tasks as completed/incomplete.
+
+What I Learned :
+DOM manipulation and event handling. 
+Basics of CRUD operations. 
+Managing application state. 
+Storing and retrieving data using LocalStorage. 
+Writing clean and maintainable code. 
+UI/UX design principles.
